@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3334713afb843637a011058113a270b8",
+    "revision": "79ec9c498cee91f3edde894dffe84930",
     "url": "/index.html"
   },
   {
-    "revision": "8fce73d42c0dabe5a890",
-    "url": "/static/css/main.f464fbe5.chunk.css"
+    "revision": "e839d65368ac66b1791b",
+    "url": "/static/css/main.6328d8e5.chunk.css"
   },
   {
-    "revision": "ce4fb2782e8b6584c814",
-    "url": "/static/js/2.caa6aeca.chunk.js"
+    "revision": "beef00b7e52cedbfc757",
+    "url": "/static/js/2.6384c6d4.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.caa6aeca.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6384c6d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8fce73d42c0dabe5a890",
-    "url": "/static/js/main.67e88098.chunk.js"
+    "revision": "e839d65368ac66b1791b",
+    "url": "/static/js/main.a9840307.chunk.js"
   },
   {
     "revision": "f25ed85529b46a68fbc9",
@@ -104,8 +104,60 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Logos__wCM.2e2bc905.png"
   },
   {
+    "revision": "5877dbbf170afc73c4872979a89084bf",
+    "url": "/static/media/Marseille_Calanques.5877dbbf.png"
+  },
+  {
+    "revision": "765235e2e89db948f85afea9025a5a98",
+    "url": "/static/media/Marseille_CentraleMarseille.765235e2.png"
+  },
+  {
+    "revision": "e6fe0d500d4e69ede3d28b2365a35409",
+    "url": "/static/media/Marseille_Frioul.e6fe0d50.png"
+  },
+  {
+    "revision": "1ea214a41f193965066e292a4c0ebca1",
+    "url": "/static/media/Marseille_Map.1ea214a4.png"
+  },
+  {
+    "revision": "b325c0ad995205c8d4ceba09800024ba",
+    "url": "/static/media/Marseille_MuCEM.b325c0ad.png"
+  },
+  {
+    "revision": "1582ba8554e95702a307b6d5b09bda37",
+    "url": "/static/media/Marseille_NotreDame.1582ba85.png"
+  },
+  {
+    "revision": "cb18a13fade1bdb1ce7076c637740f2b",
+    "url": "/static/media/Marseille_OrangeVelodrome.cb18a13f.png"
+  },
+  {
+    "revision": "ec5a51029ef241b10955e01beff4dec5",
+    "url": "/static/media/Marseille_VieuxPort.ec5a5102.png"
+  },
+  {
     "revision": "6e29c7f338ed4751cf211d28223cd0ea",
     "url": "/static/media/Menu__frise.6e29c7f3.png"
+  },
+  {
+    "revision": "a5954bb44f05b26c612483c5a205b447",
+    "url": "/static/media/Menu_button_bcV_end.a5954bb4.png"
+  },
+  {
+    "revision": "257dbf58686eacc7347db24c9b7e1750",
+    "url": "/static/media/Menu_button_bcV_end_filled.257dbf58.png"
+  },
+  {
+    "revision": "2cf6070fc0d6eeb28faea5af0b45b1ee",
+    "url": "/static/media/Menu_button_bcV_filled.2cf6070f.png"
+  },
+  {
+    "revision": "d0277f3bcb1e31975ba50a552fac46ef",
+    "url": "/static/media/Menu_button_bcV_start.d0277f3b.png"
+  },
+  {
+    "revision": "ffb2fc1567092cab34b351c61d17d783",
+    "url": "/static/media/Menu_button_bcV_start_filled.ffb2fc15.png"
   },
   {
     "revision": "0624ab0aaf431c9608c9010de675ee63",
@@ -128,7 +180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Menu_button_bc_start_filled.00cbbbd1.png"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/static/media/logo.5d5d9eef.svg"
+    "revision": "7381b8cba4a01415711b455c76cf1632",
+    "url": "/static/media/VDE.7381b8cb.png"
   }
 ]);
